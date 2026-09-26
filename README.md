@@ -8,7 +8,9 @@ This project explores a dataset of data science job salaries (ds_salaries.csv) t
 
 ## Files in this Repository
 
-(pro.twb)	Tableau workbook file containing all worksheets and visualizations
-(ds_salaries.csv)	Source dataset used in the analysis (add this if you're sharing the raw data too)
-(README.md)	Project documentation
+(pro.twb)	Tableau workbook file containing all worksheets and visualizations.
+
+(ds_salaries.csv)	Source dataset used in the analysis.
+
+(README.md)	Project documentation.
 
